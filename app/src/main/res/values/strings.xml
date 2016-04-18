@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Todo List</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_splash_screen">SplashScreen</string>
+    <string name="title_edit">EditActivity</string>
+    <string name="title_delete">DeleteActivity</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="priority">Priority</string>
+    <string name="add">Add to list</string>
+    <string name="title_activity_display">DisplayActivity</string>
+    <string name="add_activity">Add a item</string>
+    <string name="display_list">Display list</string>
+    <string name="title_activity_tab">TabActivity</string>
+    <string name="start_up_message">A BASIC TODO LIST ANDROID APP!</string>
+    <string name="home">Return Home</string>
+    <string name="delete_message">To delete an item off the list, hit the Display list button then long click on an item you wish to DELETE and select yes on prompt.</string>
+    <string name="edit_message">To edit an item on the list, hit the Display list button then click on an item you wish to EDIT and then lastly click save to save any changes.</string>
+    <string name="title_activity_location">LocationActivity</string>
+    <string name="title_activity_camera">CameraActivity</string>
+    <string name="camera">Camera</string>
+    <string name="delete_item">Delete a item</string>
+    <string name="edit_item">Edit a item</string>
+    <string name="title_activity_help">HelpActivity</string>
+    <string name="help">Help</string>
+
+</resources>
